@@ -1,4 +1,5 @@
 void keyPressed() {
+  //keyCode checks to see which key is pressed
   if (keyCode == RIGHT) rightKey = true;
   if (keyCode == LEFT) leftKey = true;
   
